@@ -1,5 +1,5 @@
 ## AgentEVO
-- requirements - podman
+- Requirements - podman
 - Steps to Create a Bot using BotFather
 Find BotFather: Open Telegram and search for @BotFather (ensure it has the blue verification tick).
 Start Chat: Click "Start" to initiate the chat.
@@ -55,3 +55,10 @@ First explore the environment, confirm you are v0, send Telegram message “Agen
 When you believe **v0 is perfect**, execute the version completion process and generate **v1**.
 
 **Thought → Action: exec → Observation → Continue the loop**
+
+
+### ☕ Support AgentEvo / 支持專案開發
+If AgentEvo helps you, consider supporting its development:
+- [☕ Buy me a Coffee ($5)](https://buy.stripe.com/cNi28r9iB82u97E8Q25Rm05)
+- [🍱 Buy me a Lunch ($20)](https://buy.stripe.com/dRmcN566p82u5Vs6HU5Rm04)
+- [🚀 Project Development Support ($50)](https://buy.stripe.com/7sYaEX8exaaC5Vsgiu5Rm03)
