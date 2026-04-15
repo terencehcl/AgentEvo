@@ -1,6 +1,6 @@
 {
   "name": "agentevo",
-  "module": "index.ts",
+  "module": "agent.ts",
   "type": "module",
   "private": true,
   "scripts": {
